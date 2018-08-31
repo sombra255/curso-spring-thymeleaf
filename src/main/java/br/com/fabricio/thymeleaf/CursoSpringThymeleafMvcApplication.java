@@ -8,6 +8,6 @@ public class CursoSpringThymeleafMvcApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CursoSpringThymeleafMvcApplication.class, args);
-		System.out.println("teste");
+		System.out.println("teste 1");
 	}
 }
